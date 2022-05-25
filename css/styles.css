@@ -11459,3 +11459,7 @@ section.resume-section .resume-section-content {
   flex: 0 0 auto;
   width: 95%;
 }
+
+i {
+  float: right
+}
